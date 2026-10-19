@@ -6,5 +6,5 @@ body{
 .colored-box1 {
   background-color: #3498db;            
   border-radius: 5px;
-  grid-column: span 2;  
+  grid-column: 1/2;  
 }
