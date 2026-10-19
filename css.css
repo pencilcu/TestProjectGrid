@@ -12,19 +12,22 @@ body{
 .colored-box2 {
   background-color: #3498db;            
   border-radius: 5px;
-  grid-column: 5/6;  
+  grid-column: 5/6; 
+  z-index: 2;
 }
 
 .colored-box3 {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 7/8;  
+  z-index: 2;
 }
 
 .colored-box4 {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 9/10;  
+  z-index: 2;
 }
 
 .colored-box5 {
@@ -37,4 +40,12 @@ body{
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 13/14;  
+  z-index: 2;
+}
+
+.colored-box7 {
+  background-color: #3498db;            
+  border-radius: 5px;
+  grid-column: 4/15;  
+  z-index: 1;
 }
