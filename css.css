@@ -2,3 +2,9 @@ body{
   display: grid;
   grid-template-columns: 0.5fr 1.5fr 0.5fr 25px repeat(4, 1fr 20px) 1fr 25px;
 }
+
+.colored-box1 {
+  background-color: #3498db;            
+  border-radius: 5px;
+  grid-column: span 2;  
+}
