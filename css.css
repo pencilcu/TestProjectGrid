@@ -42,6 +42,9 @@ body{
   z-index: 2;
   height: 400px; 
   width: 200px; 
+  margin-bottom: 20px;
+  justify-self: center;
+  align-self: end;
 }
 
 .Angron {
@@ -53,6 +56,9 @@ body{
   height: 700px; 
   max-height: 800px; 
   width: 200px; 
+  margin-bottom: 20px;
+  justify-self: center;
+  align-self: end;
 }
 
 .Lionel {
@@ -63,6 +69,9 @@ body{
   z-index: 2;
   height: 300px; 
   width: 200px; 
+  margin-bottom: 20px;
+  justify-self: center;
+  align-self: end;
 }
 
 .Magnus {
@@ -73,6 +82,9 @@ body{
   z-index: 2;
   height: 600px; 
   width: 200px; 
+  margin-bottom: 20px;
+  justify-self: center;
+  align-self: end;
 }
 
 .BookShelf {
