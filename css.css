@@ -16,6 +16,8 @@ body{
   border-radius: 5px;
   grid-column: 5/6; 
   z-index: 2;
+  height: 500px; 
+  width: 200px; 
 }
 
 .colored-box3 {
@@ -23,6 +25,8 @@ body{
   border-radius: 5px;
   grid-column: 7/8;  
   z-index: 2;
+  height: 300px; 
+  width: 200px; 
 }
 
 .colored-box4 {
@@ -30,12 +34,18 @@ body{
   border-radius: 5px;
   grid-column: 9/10;  
   z-index: 2;
+  height: 700px; 
+  max-height: 800px; 
+  width: 200px; 
 }
 
 .colored-box5 {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 11/12;  
+  z-index: 2;
+  height: 300px; 
+  width: 200px; 
 }
 
 .colored-box6 {
@@ -43,11 +53,15 @@ body{
   border-radius: 5px;
   grid-column: 13/14;  
   z-index: 2;
+  height: 300px; 
+  width: 200px; 
 }
 
 .colored-box7 {
-  background-color: #3498db;            
+  background-color: #6498db;            
   border-radius: 5px;
   grid-column: 4/15;  
   z-index: 1;
+  width: 1500px; 
+  height: 100%
 }
