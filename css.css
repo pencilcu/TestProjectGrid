@@ -1,5 +1,6 @@
 body{
   display: grid;
+  margin: 0;
   grid-template-columns: 0.5fr 1.5fr 0.5fr 0.15fr repeat(4, 1fr 0.1fr) 1fr 0.15fr;
   grid-template-rows: 1fr;
   overflow-x: auto; 
