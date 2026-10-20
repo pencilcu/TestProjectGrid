@@ -9,7 +9,7 @@ body{
   align-items: start; 
 }
 
-.colored-box1 {
+.Computer {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 2/3;  
@@ -20,7 +20,7 @@ body{
   align-self: end;
 }
 
-.colored-box2 {
+.Horus {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 5/6; 
@@ -30,17 +30,17 @@ body{
   width: 200px; 
 }
 
-.colored-box3 {
+.Fulgrim {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 7/8;  
   grid-row: 1;
   z-index: 2;
-  height: 300px; 
+  height: 400px; 
   width: 200px; 
 }
 
-.colored-box4 {
+.Angron {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 9/10;  
@@ -51,7 +51,7 @@ body{
   width: 200px; 
 }
 
-.colored-box5 {
+.Lionel {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 11/12;  
@@ -61,17 +61,17 @@ body{
   width: 200px; 
 }
 
-.colored-box6 {
+.Magnus {
   background-color: #3498db;            
   border-radius: 5px;
   grid-column: 13/14;  
   grid-row: 1;
   z-index: 2;
-  height: 300px; 
+  height: 600px; 
   width: 200px; 
 }
 
-.colored-box7 {
+.BookShelf {
   background-color: #6498db;            
   border-radius: 5px;
   grid-column: 4/15;  
