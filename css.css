@@ -4,6 +4,8 @@ body{
   grid-template-rows: max-content;
   overflow-x: auto; 
   overflow-y: hidden;
+  min-height: 100vh;  
+  width: 1500px;  
 }
 
 .colored-box1 {
@@ -75,12 +77,3 @@ body{
   width: 100%; 
   height: 100%
 }
-
-.large-content { 
-  flex-shrink: 0; 
-  width: 1500px; 
-  height: 100%; 
-  position: relative; 
-  box-sizing: border-box;
-  padding-left: 40px;
-} 
